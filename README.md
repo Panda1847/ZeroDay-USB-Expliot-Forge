@@ -1,13 +1,7 @@
 # ZeroDay USB Forge
 ### ⚡ USB Payload Crafting Framework for Red-Team Operations
 
-███████╗███████╗██████╗  ██████╗ ██████╗  █████╗ ██╗   ██╗
-██╔════╝██╔════╝██╔══██╗██╔════╝ ██╔══██╗██╔══██╗╚██╗ ██╔╝
-█████╗  █████╗  ██████╔╝██║  ███╗██████╔╝███████║ ╚████╔╝ 
-██╔══╝  ██╔══╝  ██╔═══╝ ██║   ██║██╔══██╗██╔══██║  ╚██╔╝  
-██║     ███████╗██║     ╚██████╔╝██║  ██║██║  ██║   ██║   
-╚═╝     ╚══════╝╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
-          ZeroDay USB Forge — Red-Team Payload Builder
+ZeroDay USB Forge — Red-Team Payload Builder
 
 ZeroDay USB Forge is a **USB-based payload crafting system** built for:
 
