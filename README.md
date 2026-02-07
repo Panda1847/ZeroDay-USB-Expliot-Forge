@@ -1,4 +1,11 @@
-# ZeroDay USB Forge
+# ZERO_SPLOIT_USB
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/ZERO_SPLOIT_USB)](https://github.com/Panda1847/ZERO_SPLOIT_USB/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/ZERO_SPLOIT_USB)](https://github.com/Panda1847/ZERO_SPLOIT_USB/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/ZERO_SPLOIT_USB)](https://github.com/Panda1847/ZERO_SPLOIT_USB/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/ZERO_SPLOIT_USB)
+
 ### ⚡ USB Payload Crafting Framework for Red-Team Operations
 
 ZeroDay USB Forge — Red-Team Payload Builder
